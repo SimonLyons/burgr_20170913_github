@@ -45,6 +45,7 @@ output:
         - Use GitHub to manage your own solo projects. Not necessarily software. [This talk has a repo](https://github.com/MilesMcBain/burgr_20170913_github). 
         - Get acquainted with commiting, pushing and pulling. 
         - Use a git client like [GitKraken](https://www.gitkraken.com/).
+        - The GUI in RStudio is a good place for beginners to start [Simon Edit]
         - Raise issues on repos for software you use:
             - Feature requests
             - Bug reports with a [reprex](http://www.njtierney.com/post/2017/01/11/magic-reprex/)
